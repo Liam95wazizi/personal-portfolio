@@ -5,8 +5,8 @@ const projects = [
 		imageUrl: "flask-api.png",
 		technologies: ["Python", "Restful API"],
 		links: [
-			"https://replit.com/@MartinPedraza/basic-rest-flask#main.py",
-			"https://basic-rest-flask.martinpedraza.repl.co/",
+			"https://replit.com/@liamroux/API#main.py",
+			"https://replit.com/@liamroux/API#main.py",
 		],
 	},
 	{
@@ -15,8 +15,8 @@ const projects = [
 		imageUrl: "front-01.png",
 		technologies: ["Html", "Css"],
 		links: [
-			"https://github.com/web-rest-api/tp1-site",
-			"https://web-rest-api.github.io/tp1-site/",
+			"https://replit.com/@liamroux/site-internet-HOF#index.html",
+			"https://replit.com/@liamroux/site-internet-HOF#index.html",
 		],
 	},
 	{
