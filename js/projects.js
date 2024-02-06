@@ -25,8 +25,8 @@ const projects = [
 		imageUrl: "game-manager.png",
 		technologies: ["Bootstrap 5", "Javascript"],
 		links: [
-			"https://github.com/web-rest-api/tp-1-bootstrap",
-			"https://web-rest-api.github.io/tp-1-bootstrap/",
+			"https://replit.com/@liamroux/bootstraps#script.js",
+			"https://replit.com/@liamroux/bootstraps#script.js",
 		],
 	},
 	{
